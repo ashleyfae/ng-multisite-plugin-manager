@@ -1,0 +1,3 @@
+# NG Multisite Plugin Manager
+
+This is a fork of [Multisite Plugin Manager](http://wordpress.org/extend/plugins/multisite-plugin-manager/). It behaves exactly the same way but it moves the single site override settings to its own dedicated "Plugins" tab instead of bundling it with the site options tab. This is a big improvement if sites have a lot of options and you don't want to save them all when updating the plugin settings.
